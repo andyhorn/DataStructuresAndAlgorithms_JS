@@ -1,4 +1,4 @@
-const runSort = require('../runSort').default;
+const runSort = require('./runSort').default;
 
 function bubbleSort(array) {
     for (let i = array.length - 1; i > 0; i--) {

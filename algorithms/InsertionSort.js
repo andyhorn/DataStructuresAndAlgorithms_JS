@@ -1,4 +1,4 @@
-const runSort = require('../runSort').default;
+const runSort = require('./runSort').default;
 
 function insertionSort(array) {
     let temp;

@@ -1,4 +1,4 @@
-const runSort = require('../runSort').default;
+const runSort = require('./runSort').default;
 
 function swap(array, left, right) {
     const temp = array[left];
